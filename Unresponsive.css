@@ -1,0 +1,49 @@
+Body{
+    padding: 0;
+    margin: 0;
+
+}
+
+
+.HeaderContainer{
+    background-color: aquamarine;
+    padding-top: 25px;
+    text-align: center;
+    padding-bottom:25px
+
+}
+.HeaderText{
+    font-size: 50px;
+}
+.MoosePics{
+    height: 500px;
+    width: 350px;
+    margin-left:100px;
+    margin-right: 150px;
+}
+#explanation{
+    text-align: center;
+    margin-left:30px;
+    margin-right:30px;
+}
+.ButtonContainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#ReturnButton{
+    height: 50px;
+    background-color: aquamarine;
+    border-style: none;
+    font-size: 25px;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:25px;
+    padding-right:25px;
+    border-radius: 5px;
+
+
+ 
+
+}

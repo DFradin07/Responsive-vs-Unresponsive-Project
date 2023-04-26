@@ -1,0 +1,47 @@
+Body{
+    padding: 0;
+    margin: 0;
+    min-height: 100vh;
+}
+
+
+.HeaderContainer{
+    background-color: aquamarine;
+    display:flex;
+    
+    justify-content: center;
+}
+.HeaderText{
+    font-size: 3vw;
+}
+
+
+
+.PictureContainer{
+    display: flex;
+    justify-content: space-around;
+    
+    flex-wrap: wrap;
+}
+
+.MoosePics{
+    width: 20%;
+
+}
+#explanation{
+    font-size: 1.5vw;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+#ReturnButton{
+height: 50px;
+background-color: aquamarine;
+border-style: none;
+font-size: 25px;
+padding-top:10px;
+padding-bottom:10px;
+padding-left:25px;
+padding-right:25px;
+border-radius: 5px;
+}
